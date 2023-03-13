@@ -2,7 +2,7 @@
 //  Landmark.swift
 //  SwiftUI_Landmarks
 //
-//  Created by Mohit Gupta on 20/03/21.
+//  Created by Mohit Gupta on 14/03/23.
 //
 
 import SwiftUI
